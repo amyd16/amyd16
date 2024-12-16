@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning C
-I'm very new to github
+I'm currently learning C and I'm very new to github!
 
 <!--
 **amyd16/amyd16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
